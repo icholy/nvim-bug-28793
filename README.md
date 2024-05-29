@@ -4,4 +4,4 @@ Issue: https://github.com/neovim/neovim/issues/28793
 
 ### Steps:
 
-1. `nvim --clean -u init.lua`
+1. `nvim --clean -u init.lua example.jac`
